@@ -1,16 +1,16 @@
 {
-  "title": "San Francisco Brainhack 2017",
-  "location": "San Francisco, CA, USA",
-  "dates": "March 03-05, 2017",
+  "title": "Dartmouth Brainhack 2017",
+  "location": "Hanover, NH, USA",
+  "dates": "March 02-05, 2017",
   "year": "2017",
-  "background_img": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Ggb_by_night.jpg",
+  "background_img": "http://www.dartmouth.edu/~gallery/downloads/images/sunset-1280x1024.jpg",
   "color_theme": {"background": "#3b2e26", "font": "#fff", "link_color": "#e24401"},
   "global_brainhack_organizers": ["Cameron Craddock"],
   "registration_link":"http://www.humanbrainmapping.org/i4a/pages/index.cfm?pageID=3711",
   "slack_link":"https://brainhack-slack-invite.herokuapp.com/",
   "project_submit_link":"http://brainhack.org/submit-project/",
-  "title_photo_link":"https://upload.wikimedia.org/wikipedia/commons/a/a4/Ggb_by_night.jpg",
-  "title_photo_author": "Wikipedia",
+  "title_photo_link":"http://www.dartmouth.edu/~gallery/downloads/images/sunset-1280x1024.jpg",
+  "title_photo_author": "",
   "services":[{
     "name": "Share",
     "desc": "Show your research to other neuroimaging researchers.",
@@ -38,11 +38,11 @@
                   "times": [{"time": "9:00-9:30", "event": "Breakfast"},
                             {"time": "9:30-5:30pm", "event": "Hacking"}]}
                   ],
-    "location_logo": "https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/5/0/1/7/highres_455060503.jpeg",
-    "location_name": "Manylabs",
-    "location_url":"https://www.manylabs.org/",
-    "google_maps_link":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11289.96447919898!2d-122.4129674880236!3d37.77753278990755!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80858082235da2e7%3A0xb30be4b717ffde73!2sManylabs!5e0!3m2!1sen!2sus!4v1486322788908",
+    "location_logo": "",
+    "location_name": "Department of Psychological and Brain Sciences, Dartmouth College",
+    "location_url":"https://pbs.dartmouth.edu",
+    "google_maps_link":"https://www.google.com/maps/place/Moore+Psychology+Bldg,+Hanover,+NH+03755/@43.7072763,-72.2901581,17z/data=!3m1!4b1!4m5!3m4!1s0x4cb4c9c361e1ddb1:0x8b2bba0d5b098fa6!8m2!3d43.7073334!4d-72.2879293",
     "sponsors": [{"name": "", "url": "", "logo":""}],
-    "organizers": ["Dan Lurie (chair)", "Anisha Keshavan", "JB Poline", "Russ Poldrack", "Chris Filo Gorgolewski", "Teon Brooks"]
+    "organizers": ["Matteo Visconti di Oleggio Castello", "Yaroslav O. Halchenko", "Sam Nastase", "Luke Chang", "Eshin Jolly"]
 
 }
