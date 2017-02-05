@@ -17,10 +17,10 @@ body {
 }
 
 .text-color-blue {
-	color:#e24401;
+	color:#00693e;
 }
 .text-color-blue a {
-	color:#e24401;
+	color:#00693e;
 }
 
 .text-vertical-center {
@@ -256,7 +256,7 @@ hr.small {
     height: 400px;
     color: #fff;
     font-family: 'Comfortaa', cursive;
-    background: url(https://www.manylabs.org/file/general/home/optics-experiment.jpg) no-repeat center center scroll;
+    background: url() no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -327,7 +327,7 @@ footer {
 }
 
 a {
-    color: #e24401;
+    color: #00693e;
 }
 
 a:focus, a:hover {
@@ -381,10 +381,10 @@ a:focus, a:hover {
 /* Color Theme*/
 
 .bg-primary {
-  color: #fff;
-  background-color: #3b2e26;
+  color: #00693e;
+  background-color: #fff;
 }
 
 .text-primary {
-    color: #3b2e26;
+    color: #fff;
 }

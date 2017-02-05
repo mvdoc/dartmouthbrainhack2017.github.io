@@ -4,13 +4,14 @@
   "dates": "March 02-05, 2017",
   "year": "2017",
   "background_img": "http://www.dartmouth.edu/~gallery/downloads/images/sunset-1280x1024.jpg",
-  "color_theme": {"background": "#3b2e26", "font": "#fff", "link_color": "#e24401"},
+  "color_theme": {"background": "#fff", "font": "#00693e", "link_color": "#00693e"},
   "global_brainhack_organizers": ["Cameron Craddock"],
-  "registration_link":"http://www.humanbrainmapping.org/i4a/pages/index.cfm?pageID=3711",
+  "emailinfo": "mvdoc.gr@dartmouth.edu",
+  "registration_link":"https://www.eventbrite.com/myevent?eid=31611515895",
   "slack_link":"https://brainhack-slack-invite.herokuapp.com/",
   "project_submit_link":"http://brainhack.org/submit-project/",
   "title_photo_link":"http://www.dartmouth.edu/~gallery/downloads/images/sunset-1280x1024.jpg",
-  "title_photo_author": "",
+  "title_photo_author": "Kawakahi Kaeo Amina '09",
   "services":[{
     "name": "Share",
     "desc": "Show your research to other neuroimaging researchers.",
@@ -26,8 +27,8 @@
   {"name":"Be Social",
     "desc":"Meet researchers from a variety of backgrounds.",
     "fa_icon": "fa-wechat"}],
-    "details": {"costs":"$25 USD, includes some food, probably"},
-    "schedule_background_img": "https://www.manylabs.org/file/general/home/optics-experiment.jpg",
+    "details": {"costs": "free for members of the Dartmouth community"},
+    "schedule_background_img": "",
     "schedule":  [{"date": "Friday, March 03",
                   "times": [{"time": "6:00-9:00pm", "event": "Have fun"},
                             {"time": "9:00pm-12:00am", "event": "Socialize"}]},
@@ -41,8 +42,10 @@
     "location_logo": "",
     "location_name": "Department of Psychological and Brain Sciences, Dartmouth College",
     "location_url":"https://pbs.dartmouth.edu",
-    "google_maps_link":"https://www.google.com/maps/place/Moore+Psychology+Bldg,+Hanover,+NH+03755/@43.7072763,-72.2901581,17z/data=!3m1!4b1!4m5!3m4!1s0x4cb4c9c361e1ddb1:0x8b2bba0d5b098fa6!8m2!3d43.7073334!4d-72.2879293",
-    "sponsors": [{"name": "", "url": "", "logo":""}],
+    
+    "google_maps_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2884.157476893311!2d-72.29015808460174!3d43.70727632911932!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cb4c9c361e1ddb1%3A0x8b2bba0d5b098fa6!2sMoore+Psychology+Bldg%2C+Hanover%2C+NH+03755!5e0!3m2!1sen!2sus!4v1486338484907",
+    "sponsors": [{"name": "Jay Hull, Associate Dean of Social Sciences", "url": "", "logo":""},
+      {"name": "Center for Cognitive Neuroscience", "url": "http://www.dartmouth.edu/~ccn", "logo": ""}],
     "organizers": ["Matteo Visconti di Oleggio Castello", "Yaroslav O. Halchenko", "Sam Nastase", "Luke Chang", "Eshin Jolly"]
 
 }
